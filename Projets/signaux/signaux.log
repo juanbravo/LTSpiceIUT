@@ -1,0 +1,27 @@
+Circuit: * D:\MonTravail\LTspice\Projets\signaux\signaux.asc
+
+WARNING: Less than two connections to node N003.  This node is used by V2.
+WARNING: Less than two connections to node BURST1.  This node is used by V3.
+WARNING: Less than two connections to node N001.  This node is used by B1.
+WARNING: Less than two connections to node N002.  This node is used by B2.
+WARNING: Less than two connections to node REPBURST.  This node is used by B3.
+.OP point found by inspection.
+
+Date: Thu Aug 29 13:07:27 2013
+Total elapsed time: 0.641 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 60996
+traniter = 60996
+tranpoints = 16353
+accept = 11522
+rejected = 4831
+matrix size = 16
+fillins = 0
+solver = Normal
+Matrix Compiler1: 322 octets object code size  0.1/0.1/[0.1]
+Matrix Compiler2: 712 octets object code size  0.2/0.3/[0.1]
+
+

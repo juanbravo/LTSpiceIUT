@@ -1,0 +1,22 @@
+Circuit: * Z:\home\jbr\Travail\LTspice\Essai1\Monostable.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Fri Jul 26 16:40:02 2013
+Total elapsed time: 0.072 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4220
+traniter = 4212
+tranpoints = 1613
+accept = 1490
+rejected = 123
+matrix size = 15
+fillins = 0
+solver = Normal
+Matrix Compiler1: 416 octets object code size  1.1/0.9/[0.8]
+Matrix Compiler2: 783 octets object code size  0.9/1.1/[0.8]
+
+

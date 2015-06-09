@@ -1,0 +1,51 @@
+Circuit: * D:\MonTravail\LTspice\Projets\LM317\regulateurTest.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+vernier = 0.5
+vernier = 0.25
+Gmin = 7.24327e-006
+vernier = 0.333333
+vernier = 0.444444
+Gmin = 2.9399e-006
+vernier = 0.592592
+vernier = 0.790123
+Gmin = 7.24864e-007
+vernier = 1
+Gmin = 9.23953e-008
+Gmin = 9.92087e-009
+Gmin = 1.06525e-009
+Gmin = 1.1438e-010
+Gmin = 1.22814e-011
+Gmin = 1.31871e-012
+Gmin = 1.41595e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Wed Aug 28 15:28:12 2013
+Total elapsed time: 0.191 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3061
+traniter = 2082
+tranpoints = 1042
+accept = 1042
+rejected = 0
+matrix size = 69
+fillins = 82
+solver = Normal
+Thread vector: 26.7/11.4[4] 11.3/3.8[4] 8.6/2.8[4] 0.5/1.5[1]  2592/500
+Matrix Compiler1: 13,5 Ko object code size  3.0/1.3/[1.0]
+Matrix Compiler2: 9,00 Ko object code size  1.7/1.6/[1.0]
+
+

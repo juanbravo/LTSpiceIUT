@@ -1,0 +1,48 @@
+Circuit: * D:\MonTravail\LTspice\LTSpiceIUT\Projets\AOP\EssaiModeleAOP.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+Gmin = 5.5165
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+Gmin = 5.49501
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 5.50104
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Tue Jun 09 08:35:50 2015
+Total elapsed time: 0.241 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4352
+traniter = 2222
+tranpoints = 1046
+accept = 1046
+rejected = 0
+matrix size = 63
+fillins = 100
+solver = Normal
+Matrix Compiler1: 7,16 Ko object code size  1.8/0.7/[0.5]
+Matrix Compiler2: 6,97 Ko object code size  1.2/1.1/[0.8]
+
+

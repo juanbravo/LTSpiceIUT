@@ -1,0 +1,25 @@
+78xx/7905/LM317 models
+
+To use those symbols and models do as you would for any model/symbol:
+* Extract the .asy files to C:\Program Files\LTC\SWCADIII\LIB\SYM\
+(a separate folder makes finding of symbols easy - the folder is already in the .zip file structure)
+* Extract the .lib files to c:\Program Files\LTC\SwCadIII\LIB\SUB\
+* Run SWCad III
+* Have fun!
+
+
+PS: In my Portuguese version of Windows , the LTC folder is C:\Arquivos de Programas\LTC\SwCadIII . So, there _may be_ some references to this, but they are only on the comments.
+
+
+
+For now just hope it does not give "Timestep too small." (at least it seems to not give)
+
+PS: sorry about my english. I am Brazilian.
+
+Any problems, call me via e-mail, MSN or ICQ.
+
+][s Renan
+MSN: wizard_of_yendor@hotmail.com
+ICQ: 126735906
+E-mail: renan.birck@ibestvip.com.br
+Porto Alegre, RS, Brazil

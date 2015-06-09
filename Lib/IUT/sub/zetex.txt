@@ -1,0 +1,13 @@
+libraire diode et diode zener
+
+-copier la repertoire de votre projet
+- .lib ".\zetex.lib"
+
+- utiliser  le symbol diode ou zener dispo par défault
+
+
+- FAIRE CTRL + CLIC DROIT  et dans value mettre une des références dispo dans zetex.lib
+
+- cliquez icone .op et tapez: .lib ".\zetex.lib"
+
+simulez!
