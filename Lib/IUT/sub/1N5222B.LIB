@@ -1,0 +1,35 @@
+******
+* NOM renommer en 1N5222
+* Spice Model
+* Item: CMDZ5222B	
+* Date: 1/24/08
+* Revsion History: REV A
+*==========================================================
+* This model was developed by: 
+* Central Semiconductor Corp.
+* 145 Adams Avenue
+* Hauppauge, NY 11788
+*
+* These models are subject to change without notice.
+* Users may not directly or indirectly re-sell or 
+* re-distribute this model. This model may not 
+* be modified, or altered without the consent of Central Semiconductor Corp. 
+*
+* For more information on this model contact
+* Central Semiconductor Corp. at:
+* (631) 435-1110 or Engineering@centralsemi.com
+* http://www.centralsemi.com
+**==========================================================
+******
+*SRC=CMDZ5222B;CMDZ5222B;Diodes;Zener <=10V; 2.50V  0.250W   CENTRAL -
+*SYM=HZEN
+.SUBCKT 1N5222B  1 2
+*        Terminals    A   K
+D1 1 2 DF
+DZ 3 1 DR
+VZ 2 3 0
+.MODEL DF D ( IS=41.2p RS=2.64 N=1.10
++ CJO=301p VJ=0.750 M=0.330 TT=50.1n )
+.MODEL DR D ( IS=8.24f RS=14.8 N=3.00 )
+.ENDS
+******
